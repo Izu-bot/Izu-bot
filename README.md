@@ -1,6 +1,6 @@
 ## Hey there! I'm Kauan Cardoso :v:
 
-I am currently a student of Analysis and Development of Systems at Paulista College of Information Technology and Administration - FIAP.
+I have a degree in Systems Analysis and Development from the Faculdade Paulista de Informática e Administração - FIAP.
 
 I like to develop games, backend systems, mobile apps, and desktop software.
 
